@@ -21,3 +21,4 @@ example.Transparency = 1
  example.Transparency = 1 equal game.Workspace.Part.Transparency = 1 
 --Because we did "local example = game.Workspace.Part
 --What we learned today was to introduce something to the "local" part and what values ​​the properties can take and how we can change them.
+https://i.hizliresim.com/ln6MMt.png
